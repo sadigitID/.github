@@ -23,7 +23,7 @@ Jika Anda ingin membuat proyek baru menggunakan **Vue + Vite**, wajib menggunaka
 #### Command untuk Membuat Proyek Vue + Vite
 
 ```bash
-npm create vue@latest -- -t github:sadigitid/vue-template
+npx degit sadigitid/vue-template nama-project
 ```
 
 Template ini sudah dilengkapi dengan berbagai aturan dan petunjuk untuk developer yang harus diikuti dalam pengembangan proyek.
