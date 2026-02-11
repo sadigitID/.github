@@ -5,7 +5,7 @@ Untuk menjaga konsistensi, kualitas kode, dan mempercepat proses development, gu
 ## Nuxt
 Framework Vue.js dengan SSR untuk aplikasi web modern dan performa tinggi.
 ```bash
-npm create nuxt@latest -- -t github:sadigitid/nuxt-template
+npx nuxi@latest init -t github:sadigitid/nuxt-template nama-project
 ```
 [sadigitID/nuxt-template](https://github.com/sadigitID/nuxt-template)
 
